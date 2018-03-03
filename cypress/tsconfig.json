@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "types": ["cypress"],
+    "typeRoots": ["@types"],
+    "module": "commonjs",
+    "skipLibCheck": true
+  },
+  "include": ["./*/*.ts"]
+}
