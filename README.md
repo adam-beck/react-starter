@@ -1,4 +1,4 @@
-### Getting Started
+# Getting Started
 
 After pulling down the source code run `yarn install`. To start the application web server run `start:dev`. Then, navigate to `locahost:8080`.
 
