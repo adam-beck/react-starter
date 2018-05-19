@@ -1,6 +1,6 @@
 ### Getting started
 
-After pulling down the source code run `npm install`. To start the application web server run `start:dev`. Then, navigate to `locahost:8080`.
+After pulling down the source code run `yarn install`. To start the application web server run `start:dev`. Then, navigate to `locahost:8080`.
 
 ### npm sciprts
 
