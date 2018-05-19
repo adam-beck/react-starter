@@ -1,8 +1,8 @@
 # Getting Started
 
-After pulling down the source code run `yarn install`. To start the application web server run `start:dev`. Then, navigate to `locahost:8080`.
+After pulling down the source code run `yarn install`. To start the application web server run the `start:dev` script (`yarn run start:dev`). Then, navigate to `locahost:8080`.
 
-### Package Scripts
+## Package Scripts
 
 * `start:dev` - starts webpack-dev-server which hosts the application at `0.0.0.0:8080`
 * `build` - builds the production code including minifying and bundling
